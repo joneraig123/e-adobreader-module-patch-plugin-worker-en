@@ -7,7 +7,7 @@ const Index = () => {
   const [progress, setProgress] = useState(0);
 
    useEffect(() => {
-  //   const duration = 3000;
+     const duration = 3000;
   //   const interval = 30;
   //   const step = (interval / duration) * 100;
   //   const timer = setInterval(() => {
